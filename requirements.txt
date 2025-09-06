@@ -1,0 +1,10 @@
+google-genai
+moviepy
+Pillow
+torch
+diffusers
+transformers
+TTS
+PyYAML
+numpy
+opencv-python
