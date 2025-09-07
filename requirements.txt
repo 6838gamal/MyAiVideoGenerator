@@ -1,8 +1,8 @@
-google-genai
+#google-genai
 gTTS
-moviepy
+#moviepy
 Pillow
-requests
+#requests
 
 
 
